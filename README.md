@@ -75,12 +75,12 @@ python ./Train/FS2K.py --model resnet50  #请输入resnet50, resnet34, resnet18�
 
 ### 不同模型的准确度
 
-![](picture\radar.png)
+![](https://github.com/Trump-last/FS2K_ResNet/blob/main/picture/radar.png)
 
 ### 不同模型的每个epoch的损失变化
 
-![](picture\resnet.png)
+![](https://github.com/Trump-last/FS2K_ResNet/blob/main/picture/resnet.png)
 
 ### 相同模型不同分类函数损失变化
 
-![](picture\sig_sof.png)
+![](https://github.com/Trump-last/FS2K_ResNet/blob/main/picture/sig_sof.png)
